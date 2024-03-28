@@ -58,7 +58,7 @@
             <span class="text-sm md:text-base lg:text-base uppercase text-[#627BFF]">What is Needed?</span>
             <h2 class="text-3xl md:text-5xl lg:text-5xl font-bold leading-none py-2">System Requirements</h2>
             <hr class="border-white border-t-2 w-24 py-1">
-            <p class="text-base md:text-lg lg:text-lg text-white/70">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac nibh finibus, dapibus urna sed, fringilla nibh. Nullam pharetra, odio at malesuada gravida, orci urna laoreet ligula, quis congue sapien magna sed odio.</p>
+            <p class="text-base md:text-lg lg:text-lg text-white/70">We could only fit the quality into this much for you.</p>
             <a href="/" class="text-sm font-bold text-white relative top-7 bg-gradient-to-t from-[#5C76FF]/20 to-[#3345AE]/30 border-2 border-[#627BFF] rounded-lg py-2 md:py-3 lg:py-3 px-14">
                 <i class="ri-arrow-left-s-line"></i> Go Back
             </a>

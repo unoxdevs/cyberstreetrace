@@ -15,11 +15,11 @@
                 </p>
             </div>
             {#if os == "android"}
-            <button disabled class="text-xs md:text-lg lg:text-lg xl:text-lg font-bold text-white mt-5 bg-gradient-to-t from-[#5C76FF]/20 to-[#3345AE]/30 border-2 border-[#627BFF] rounded-lg py-3 px-10 md:px-14">
+            <button disabled class="text-xs md:text-lg lg:text-lg xl:text-lg font-bold text-white mt-5 bg-gradient-to-t from-[#5C76FF]/20 to-[#3345AE]/30 border-2 border-[#627BFF] rounded-lg py-3 px-10 md:px-14 opacity-30">
                 <i class="ri-install-line"></i> Disabled For Android
             </button>
             {:else if os == "ios"}
-            <button disabled class="text-xs md:text-lg lg:text-lg xl:text-lg font-bold text-white mt-5 bg-gradient-to-t from-[#5C76FF]/20 to-[#3345AE]/30 border-2 border-[#627BFF] rounded-lg py-3 px-10 md:px-14">
+            <button disabled class="text-xs md:text-lg lg:text-lg xl:text-lg font-bold text-white mt-5 bg-gradient-to-t from-[#5C76FF]/20 to-[#3345AE]/30 border-2 border-[#627BFF] rounded-lg py-3 px-10 md:px-14 opacity-30">
                 <i class="ri-install-line"></i> Disabled For Android
             </button>
             {:else}

@@ -12,9 +12,9 @@
     <div class="text-center pt-8 lg:pt-0 md:block hidden">
       <h3 class="text-2xl font-bold tracking-tight">Stay Connected</h3>
       <ul class="pt-4 list-inside">
-        <li><a href="/" class="hover:text-white">Discord</a></li>
-        <li><a href="/" class="hover:text-white">Twitter</a></li>
-        <li><a href="/" class="hover:text-white">Instagram</a></li>
+        <li><a href="https://discord.gg/hVHXe2auR8n" class="hover:text-white">Discord</a></li>
+        <li><a href="https://twitter.com/emrtsc16" class="hover:text-white">Twitter</a></li>
+        <li><a href="https://www.instagram.com/emirtssci/" class="hover:text-white">Instagram</a></li>
       </ul>
     </div>
     <div class="text-center pt-8 lg:pt-0 md:block hidden">
