@@ -1,6 +1,7 @@
 <script>
     import { onMount } from 'svelte';
     import Footer from '../../components/Footer.svelte';
+    import Navbar from '../../components/Navbar.svelte';
 
     let osOptions = [
         {
@@ -48,6 +49,8 @@
         });
     });
 </script>
+
+<Navbar />
 
 <section class="relative p-5">
     <div class="container mx-auto px-4 md:px-0 grid grid-cols-1 lg:grid-cols-2 items-center gap-x-10 mt-10">
