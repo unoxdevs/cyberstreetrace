@@ -17,7 +17,7 @@ npm run dev
 ```
 
 ## 📷 Screenshots
-![Screenshot](https://www.upload.ee/image/16425265/localhost_5173.jpeg)
+![Screenshot](https://www.upload.ee/image/16444203/Screenshot_2024-03-28_at_11-28-07_Screenshot.png)
 
 ## 📄 License
 
